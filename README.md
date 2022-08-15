@@ -13,4 +13,4 @@ I'm an aspiring data scientist, currently pursuing my Bachelor's degree in Infor
 - ⚡ I love math, programming, data science and gardening.
 - 🌏 In my free time I volunteer for beach clean-up drives.
 ---
-I'm graduating in June 2023 and I'm interested in full-time data analytics or machine learning roles. Please feel free to get in touch with me via [Linkedin](https://www.linkedin.com/in/mahajan-yash/).
+I'm graduating in June 2023 and I'm interested in full-time data analytics or machine learning roles. Please feel free to get in touch with me via [LinkedIn](https://www.linkedin.com/in/mahajan-yash/).
